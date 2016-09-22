@@ -133,7 +133,7 @@ footer p img{ margin-top:-42px}
 .space dl{ margin:20px 0; margin-bottom:10px;}
 .space dl h4{ border-bottom:1px solid #dedede; padding-bottom:10px}
 .space dl p{ font-size:14px; text-indent:2em; margin-bottom:0}
-.detail form p label{ font-weight:normal; width:18%; }
+.detail form p label{ font-weight:normal; }
 .detail form p input{ width:60%; }
 .detail form p textarea{ width:60%}
 .detail form{ border-bottom:1px solid #dedede }
