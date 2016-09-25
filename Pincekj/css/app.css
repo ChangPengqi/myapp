@@ -55,7 +55,7 @@
 	
 	padding:5px 0}
 footer p a{ padding:0 2px}
-footer p img{ margin-top:-42px}
+footer p img{ margin-top:-40px; width: 6%}
 .am-parent{padding-left:20px; border-bottom:1px solid #000}
 .active{ background:#FFEA00; }
 .am-parent a{ color:#fff; padding:0; font-size: 14px}
@@ -132,12 +132,11 @@ footer p img{ margin-top:-42px}
 .detail p{font-size:14px; text-indent:2em;}
 .ab_con p{ text-indent:2em; font-size:14px}
 .space dl{ margin:20px 0; margin-bottom:10px;}
-.space dl h4{ border-bottom:1px solid #dedede; padding-bottom:10px}
+.space dl h4{ border-bottom:1px solid #dedede; padding-bottom:10px; font-size: 15px}
 .space dl p{ font-size:14px; text-indent:2em; margin-bottom:0}
-.detail form p label{ font-weight:normal; }
+.detail form p label{ font-weight:normal; width:20%; f}
 .detail form p input{ width:60%; }
 .detail form p textarea{ width:60%}
 .detail form{ border-bottom:1px solid #dedede }
-.contact{ padding:10px}
-.contact p img{ width:10%; margin-left:15%; margin-right:5px}
-footer p{ margin-bottom:0}
+.contact{ padding:10px; font-size: 10px}
+.contact p img{ width:7%; margin-left:5%; margin-right:5px}
