@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 
 .am-container{ padding: 0 20px }
-=======
-.am-container{ padding:0 20px}
->>>>>>> origin/master
 .bgcolor{
 	background:#21262A
 	}
@@ -60,24 +56,12 @@
 .am-gallery-desc{
 	
 	padding:5px 0}
-<<<<<<< HEAD
 .search {background:#FFEA00; padding:15px 20px; }
 .search img {width:20%;  margin-top:2px; float:left; }
 .search input{width:30%; float:right;  padding:3px;border: 1px solid #565A60; font-size:12px;height:20px }
 .search button{width:10%; float:right;   padding:3px; font-size: 10px; border:0; background: #565A60;color: #FFEA00;height:20px}
 footer p a{ padding:0 2px}
 footer p img{ margin-top:-40px; width: 6%}
-=======
-.search {background:#FFEA00; padding:15px 0; }
-.search img {width:21%; margin-left:16%; margin-top:2px; float:left; }
-.search input{width:30%; float:left; margin-left:5%; padding:3px;border: 1px solid #565A60; font-size:12px;height:20px }
-.search button{width:10%; float:left;   padding:3px; font-size: 10px; border:0; background: #565A60;color: #FFEA00;height:20px}
-footer p a{ padding:0 2px}
-footer p img{ margin-top:-12px; width: 14px}
-footer p a:nth-of-type(1) img{ width:16px}
-footer p{ margin:0}
-
->>>>>>> origin/master
 .am-parent{padding-left:20px; border-bottom:1px solid #000}
 .active{ background:#FFEA00; }
 .am-parent a{ color:#fff; padding:0; font-size: 14px}
@@ -144,17 +128,10 @@ footer p{ margin:0}
 }
 .am-gallery-default .am-gallery-title a{ color:#555}
 .list .con_tit{
-<<<<<<< HEAD
     font-size:14px;
     margin:10px 20px;
     padding-bottom:10px;
     border-bottom:1px solid #dedede}
-=======
-	font-size:14px;
-	margin:10px;
-	padding-bottom:10px;
-	border-bottom:1px solid #dedede}
->>>>>>> origin/master
 .detail{ margin-bottom:20px}
 .detail img{ width:100%; height:auto; margin-bottom:5px}
 .detail p{font-size:12px; text-indent:2em;color:#7D8082;}
