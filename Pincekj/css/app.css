@@ -136,7 +136,7 @@ footer p img{ margin-top:-33px; width: 6%}
 .detail p{font-size:14px; text-indent:2em;}
 .ab_con p{ text-indent:2em; font-size:14px}
 .space dl{ margin:20px 0; margin-bottom:10px;}
-.space dl h4{ border-bottom:1px solid #dedede; padding-bottom:10px; font-size: 15px}
+.space dl h4{ border-bottom:1px solid #dedede; padding-bottom:10px; font-size:14px; font-weight:normal}
 .space dl p{ font-size:14px; text-indent:2em; margin-bottom:0}
 .detail form p label{ font-weight:normal; width:20%; f}
 .detail form p input{ width:60%; }
