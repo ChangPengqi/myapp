@@ -65,6 +65,7 @@
 footer p a{ padding:0 2px}
 footer p img{ margin-top:-12px; width: 14px}
 footer p a:nth-of-type(1) img{ width:16px}
+footer p{ margin:0}
 
 .am-parent{padding-left:20px; border-bottom:1px solid #000}
 .active{ background:#FFEA00; }
