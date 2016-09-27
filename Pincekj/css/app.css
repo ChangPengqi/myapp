@@ -134,17 +134,16 @@ footer p{ margin:0}
 .am-gallery-default .am-gallery-title a{ color:#555}
 .list .con_tit{
 	font-size:14px;
-	color:#7D8082;
 	margin:10px;
 	padding-bottom:10px;
 	border-bottom:1px solid #dedede}
 .detail{ margin-bottom:20px}
 .detail img{ width:100%; height:auto; margin-bottom:5px}
-.detail p{font-size:12px; text-indent:2em;}
+.detail p{font-size:12px; text-indent:2em;color:#7D8082;}
 .ab_con p{ text-indent:2em; font-size:14px}
 .space dl{ margin:20px 0; margin-bottom:10px;}
 .space dl h4{ border-bottom:1px solid #dedede; padding-bottom:10px; font-size:14px; font-weight:normal}
-.space dl p{ font-size:12px; text-indent:2em; margin-bottom:0}
+.space dl p{ font-size:12px; text-indent:2em; margin-bottom:0;color:#7D8082;}
 .detail form p label{ font-weight:normal; width:20%; f}
 .detail form p input{ width:60%; }
 .detail form p textarea{ width:60%}
