@@ -63,7 +63,7 @@
 .search input{width:30%; float:right;  padding:3px;border: 1px solid #565A60; font-size:12px;height:20px }
 .search button{width:10%; float:right;   padding:3px; font-size: 10px; border:0; background: #565A60;color: #FFEA00;height:20px}
 footer p a{ padding:0 2px}
-footer p img{ margin-top:-12px;width:16px}
+footer p img{margin:-12px 3px 5px 3px;width:16px}
 footer p a:nth-of-type(1) img{ width: 17px}
 .am-parent{padding-left:20px; border-bottom:1px solid #000}
 .active{ background:#FFEA00; }
