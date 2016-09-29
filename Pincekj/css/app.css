@@ -148,5 +148,5 @@ footer p a:nth-of-type(1) img{ width: 17px}
 .detail form p input{ width:60%; }
 .detail form p textarea{ width:60%}
 .detail form{ border-bottom:1px solid #dedede }
-.contact{ padding:20px; font-size:13px}
-.contact p img{ width:7%;}
+.contact{ padding:20px; font-size:12px}
+.contact p img{ width:6%; margin-left:5px}
